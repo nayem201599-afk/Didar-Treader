@@ -1,0 +1,11 @@
+{
+  "name": "Didar Trader",
+  "short_name": "DidarAI",
+  "description": "Professional AI-powered trading signal generator and neural market analyzer.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#6366f1",
+  "orientation": "portrait",
+  "requestFramePermissions": []
+}
